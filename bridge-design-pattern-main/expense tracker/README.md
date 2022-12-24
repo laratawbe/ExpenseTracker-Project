@@ -1,6 +1,6 @@
 ## Description
 
-The aim of the project is to simplify the process of tracking one's expenses. This is done by setting a savings value, which represents the total amount of money available, and a budget value representing the amount of money willing to be spent.
+The aim of the project is to simplify the process of tracking one's expenses. This is done by setting a savings value, which represents the total amount of money available, and a budget value representing the amount of money willing to be spent all using the bridge design pattern.
 
 ## Motivation
 
